@@ -59,4 +59,4 @@ df.fillna(method='ffill')
 ![image](https://github.com/DEEPAK2200233/exno1/assets/118707676/d3b37a20-81a7-4f49-8a18-1b19fa486184)
 
 # Result
-          
+Thus,the given data is read,cleansed and the cleaned data is saved into the file.
